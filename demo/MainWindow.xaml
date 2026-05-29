@@ -97,7 +97,7 @@
          FontFamily="Arial Rounded MT Bold"
          />
 
-            <!-- button to submit name-->
+            
             <Button 
         Height="40"
         Width="270"
